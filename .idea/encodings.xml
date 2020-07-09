@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-autodeliver-server-8090" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-autodeliver-server-8091" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-autodeliver-server-8096" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server-8761" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-resume-server-8080" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-resume-server-8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-service-common" charset="UTF-8" />
+  </component>
+</project>
