@@ -1,2 +1,2 @@
-# -scn-parent
+# scn-parent
 spring cloud netflix
